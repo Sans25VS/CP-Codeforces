@@ -1,0 +1,1 @@
+{"name":"Local: reverseword","url":"c:\\Users\\SANSKAR\\Desktop\\cp\\Tcs prep\\Strings\\reverseword.cpp","tests":[{"id":1714190824830,"input":"hello world","output":"world hello"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\SANSKAR\\Desktop\\cp\\Tcs prep\\Strings\\reverseword.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: lol","url":"c:\\Users\\SANSKAR\\Desktop\\cp\\lol.cpp","tests":[{"id":1688750385910,"input":"2 \nabc\nabcde","output":"2\n4"},{"id":1688750523086,"input":"1\nabcd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\SANSKAR\\Desktop\\cp\\lol.cpp","group":"local","local":true}
