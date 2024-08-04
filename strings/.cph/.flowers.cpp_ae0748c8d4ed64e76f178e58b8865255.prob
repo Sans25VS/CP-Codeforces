@@ -1,0 +1,1 @@
+{"name":"Local: flowers","url":"c:\\Users\\SANSKAR\\Desktop\\cp\\strings\\flowers.cpp","tests":[{"id":1722753149183,"input":"6\n1 1 1 2 1 1\nBYRRGY","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\SANSKAR\\Desktop\\cp\\strings\\flowers.cpp","group":"local","local":true}
